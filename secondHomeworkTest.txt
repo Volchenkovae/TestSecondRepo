@@ -1,0 +1,6 @@
+1. Open chrome.
+2. Navigate to techtorialacademy.com
+3. Login.
+4. Logout.
+
+05/14/2020
