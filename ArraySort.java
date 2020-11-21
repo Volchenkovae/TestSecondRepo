@@ -26,7 +26,6 @@ public class ArraySort {
         int[] nums = {8, 2, 5, 9, 17, 6};
         int[] values = as.ArrayNums(nums);
         System.out.println(Arrays.toString(values));
-
+//test
     }
-
 }
